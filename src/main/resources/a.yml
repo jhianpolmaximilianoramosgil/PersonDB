@@ -1,0 +1,12 @@
+server:
+  port: 8081
+
+spring:
+  application:
+    name: bd2024
+  data:
+    mongodb:
+      database: BD2024
+      uri: mongodb+srv://jhianpol:12345@cluster0.hvzkv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+
