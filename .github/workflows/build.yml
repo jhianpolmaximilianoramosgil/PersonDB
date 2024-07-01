@@ -61,4 +61,4 @@ jobs:
           context: .
           dockerfile: Dockerfile
           push: true
-          tags: ${{ secrets.DOCKERHUB_USERNAME }}/ms_personImage:latest
+          tags: ${{ secrets.DOCKERHUB_USERNAME }}/ms_personimage:latest
